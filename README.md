@@ -35,14 +35,14 @@
 - **What I'm doing:**  Trying to get the game actions to work
 - **Blocked?**
 
-### [Karim Rivera]
-- **What I did:**  
-- **What I'm doing:**  
-- **Blocked?**
+### [Karim]
+- **What I did:**  Filled in the standup document, Code assistant 
+- **What I'm doing:**  Acting a bit as a floater, filling standup doc again, helping format and develop needed functions of the code alongside Abid 
+- **Blocked?** As a QA/Tester, so far we don't have enough code to test and thus need to wait/help with code to have something 
 
-### [Masoud Moawiye]
-- **What I did:**  
-- **What I'm doing:**  
+### [Masoud]
+- **What I did:** Helped with testing and code  
+- **What I'm doing:**  Help testing and help coder 
 - **Blocked?**
 
 ### [Simone Brown]
