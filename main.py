@@ -23,9 +23,9 @@ class SpiritAnimal:
     
     def __init__(self, name="Spirit"):
         self.name = name
-        self.hunger = 100  # 0-100
-        self.happiness = 100  # 0-100
-        self.health = 100  # 0-100
+        self.hunger = 50  # 0-100
+        self.happiness = 50  # 0-100
+        self.health = 50  # 0-100
         self.age_days = 0
         self.evolution_stage = 0
         self.last_update = datetime.now()
@@ -34,9 +34,9 @@ class SpiritAnimal:
         self.total_time_alive = timedelta(0)
         
         # Track stat changes for display
-        self.last_hunger = 100
-        self.last_happiness = 100
-        self.last_health = 100
+        self.last_hunger = 50
+        self.last_happiness = 50
+        self.last_health = 50
         
     def get_stage_name(self):
         """Get current evolution stage name"""
