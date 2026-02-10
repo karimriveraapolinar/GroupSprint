@@ -66,8 +66,8 @@
 - **Blocked?**
 
 ### [Karim]
-- **What I did:**  Filled in the standup document, Code assistant 
-- **What I'm doing:**  Leading the group, roles were defaulted this time around, primarily checking in with everyone 
+- **What I did:**  Help format and introduce needed functions 
+- **What I'm doing:**  Leading the group, roles were defaulted this time around, primarily checking in with everyone, completing necessary submission requirements
 
 ### [Masoud]
 - **What I did:** Testing code, making sure everything works as intended 
