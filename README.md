@@ -78,3 +78,33 @@ Your terminal may not support Unicode. Try Windows Terminal, iTerm2, or a modern
 ---
 
 That's it! Name your spirit, keep it alive, and reach Ancient Spirit form. Good luck! 🐉
+
+---
+
+## Bugs and Fixes
+
+## Bug #1 – Game Impossible to Lose
+The death check used `< 0` instead of `<= 0`. Since stats were already floored at 0, the condition never triggered and the pet could never die.
+
+**Fix:** Changed `< 0` to `<= 0` in `update_stats()`.
+
+---
+
+## Bug #2 – Long Name Breaks the Game
+No length limit on the pet name input, causing the status display to break with very long names.
+
+**Fix:** Names are now capped at 20 characters and trimmed automatically in `start_game()`.
+
+---
+
+## Bug #3 – Play Increases Hunger Instead of Decreasing It
+`play()` was adding to hunger instead of subtracting, breaking the core feed/play loop.
+
+**Fix:** Changed `min(100, self.hunger + hunger_decrease)` to `max(0, self.hunger - hunger_decrease)`.
+
+---
+
+## Bug #4 – Status Always Shows "Ready to Evolve"
+The status screen showed the evolve prompt based on age alone, ignoring the stat requirements that `evolve()` actually enforces.
+
+**Fix:** Added a check in `get_status()` requiring all stats to be above 50 before showing the ready message.
