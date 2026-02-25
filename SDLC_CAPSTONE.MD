@@ -3,9 +3,9 @@
 
 **Sprint:** Sprint 1  
 
-**Model Selected:** <!-- Waterfall / Agile/Scrum / V-Model -->  
+**Model Selected:** V-Model
 
-**Submission Type:** <!-- Team / Solo -->  
+**Submission Type:** Solo  
 
 **Due:** End of class Thursday  
 
