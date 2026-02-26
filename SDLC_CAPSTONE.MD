@@ -49,7 +49,7 @@ Every phase must be addressed. Phases that don't map cleanly are not a reason to
 
 **What Sprint 1 produced:** We moved all around stage-wise, we moved up and down the stages in the sense that we were trying to improve things in most places. For example, we needed to add HTML to the project, which wasn't outlined in the requirements before, and now had to be added.
 
-**What strict adherence would have looked like:**  
+**What strict adherence would have looked like:**  It wouldve been more like the Waterfall model in that we move up the stages and never down, we leave them in the past and only progress forward.
 
 ---
 
