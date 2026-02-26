@@ -13,18 +13,9 @@
 
 ## Section 1 — Model Selection and Rationale
 
-<!-- 
-Choose one SDLC model: Waterfall, Agile/Scrum, or V-Model. 
-Argue that it best describes how Sprint 1 actually ran. 
-Your rationale must connect specific model characteristics to specific evidence from your project — your spec, your GitHub Issues, your swap structure, your retrospective.
+**Selected Model:** V-Model
 
-If you choose Waterfall: address why Sprint 1's feedback loops and iterative fixes do not disqualify it.  
-If you choose V-Model: identify the specific parallel between your dev phases and your test phases. 
--->
-
-**Selected Model:**  
-
-**Rationale:**  
+**Rationale:** Even though we (my team) never explicitly said that we would work this way it is how it turned out, we would code something and then test that specific thing, but not test everything else as an Agile model would, we essentially took it stage by stage. We also pretty much stuck to our requirements we had agreed upon and the games skeleton there wasnt much or any scope creep at all. Our deadline was not pushed back or moved back, we had a strict deadline which is something not always true for agile modeled sprints.
 
 ---
 
@@ -112,20 +103,11 @@ Link directly to each GitHub Issue.
 
 ## Section 4 — QA Assessment
 
-<!-- 
-Address three things:  
-1. How did QA actually operate during Sprint 1? (Gate / continuous / in between?)  
-2. How does that compare to what your chosen model prescribes?  
-3. What would QA have looked like under strict model adherence?  
+**How QA actually operated:**  Our QA was very unorganized and continuous; everything was tested on the spot, usually by whoever coded it. We didn't set aside or dedicate a specific time or stage for QA, we didn't write any test cases at all, and the only regression check we had was at the end, before the demo.
 
-Your answer must be specific to your team's Sprint 1 experience. 
--->
+**How that compares to your chosen model:**  We sneaked in QA whenever possible instead of giving it its allotted time, as it should be in the V-Model. We didn't write any test cases before writing the code, and then when we did test, it was usually a quick yeah, it works from the developer, and we moved on instead of having something to check for by means of a test case.
 
-**How QA actually operated:**  
-
-**How that compares to your chosen model:**  
-
-**What QA would have looked like under strict adherence:**  
+**What QA would have looked like under strict adherence:**  Ideally, we should have made the test cases before, so then they could be used as a checklist or requirements for development. Then somebody who is not the developer/programmer would test it using the test cases established from the start.
 
 ---
 
@@ -140,11 +122,11 @@ Answer three things:
 3. If you ran Sprint 2 under strict model adherence, what one change would have the most impact? 
 -->
 
-**The gap:**  
+**The gap:** The gap was that we had some requirements established at the start, but we didn't have all, for example we knew we needed to make a Tamagotchi game, but we had originally planned for it to be in the terminal, straight text; it ended up being paired with HTML. We also didn't have any test cases.
 
-**What it cost the team:**  
+**What it cost the team:** This made it super difficult for us to have an exact idea of what needed to happen and what our final product was going to look like. We ended up with a terminal game that shied away in the presence of all the other games. We made a late-minute call to add HTML to make it more visually appealing and hopefully engaging. When our classmates tested it, the html hadnt been implemented successfully yet, so they only saw the terminal game until we had to present, which is when they saw the HTML.
 
-**The one change for Sprint 2:**  
+**The one change for Sprint 2:**  I would make sure we have test cases, especially if its game, as it would add structure and checkpoints to keep the team on track with the end goal and what needs to happen. This would also prevent scope creep.
 
 ## Contributors:
 Karim    **Section Led:** All
