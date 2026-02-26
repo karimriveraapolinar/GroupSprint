@@ -29,25 +29,25 @@ Walk through every phase of your chosen model. For each phase, address two thing
 Every phase must be addressed. Phases that don't map cleanly are not a reason to skip — they are the most valuable part of the analysis. 
 -->
 
-### Phase: <!-- e.g. Requirements / Planning / Sprint 1 / etc. -->
+### Phase: Sprint 1
 
-**What Sprint 1 produced:**  
+**What Sprint 1 produced:**  We created a planning/requirement file, which included the basics on what we needed to have and include. There was a bit that was needed during the project, which wasn't outlined in this file.
 
-**What strict adherence would have looked like:**  
-
----
-
-### Phase: <!-- repeat for each phase of your chosen model -->
-
-**What Sprint 1 produced:**  
-
-**What strict adherence would have looked like:**  
+**What strict adherence would have looked like:** We would have included requirements/test cases to help more statically define what the project needed to include 
 
 ---
 
-### Phase:
+### Phase: Sprint 1
 
-**What Sprint 1 produced:**  
+**What Sprint 1 produced:**  The project was programmed in python and the game could be played in the terminal. This was confirmed by the programmer and was confirmed immediately after it was programmed. This meant there was no specific time to test or run QA. There were a lot of bugs found by the other group; they found the main 3, but then there were also a lot of others that we didn't plan to have that they found. This can be best explained by our lack of test cases and not being thorough with our own tests.
+
+**What strict adherence would have looked like:**  We would have had someone else test the project and, most importantly, allocate a specific day and or time to strictly do QA only.
+
+---
+
+### Phase: Sprint 1
+
+**What Sprint 1 produced:** We moved all around stage-wise, we moved up and down the stages in the sense that we were trying to improve things in most places. For example, we needed to add HTML to the project, which wasn't outlined in the requirements before, and now had to be added.
 
 **What strict adherence would have looked like:**  
 
@@ -71,33 +71,33 @@ Link directly to each GitHub Issue.
 
 ### Bug 1
 
-**GitHub Issue:** <!-- link here -->  
+**GitHub Issue:** [Issue 1](https://github.com/Gcc07/GroupSprint-QA/issues/1)  
 
 **Description:**  
 
-**Phase that introduced the defect:**  
+**Phase that introduced the defect:**  When we were programming, and also our own QA testing, since we didn't think of doing something as absurd as having a very long name, which is why the best QA comes from when you release it to the public, since you never really know what somebody can do and will do.
 
-**Phase that caught it:**  
+**Phase that caught it:**  The QA from another group, since we had to QA test another group, they had to QA test ours too.
 
-**Would your chosen model have caught it earlier?**  
+**Would your chosen model have caught it earlier?** If it were used/implemented correctly, it would have been; unfortunately, we didn't implement it correctly.
 
-**Cost of catching it late:**  
+**Cost of catching it late:**  Time constraints/having to fix these bugs before the sprint was over/due, so it added a very minuscule amount of stress. Other than that, luckily, since there wasn't money invested, the cost of catching it was only time and stress.
 
 ---
 
 ### Bug 2
 
-**GitHub Issue:** <!-- link here -->  
+**GitHub Issue:** [Issue 2](https://github.com/Gcc07/GroupSprint-QA/issues/6)
 
-**Description:**  
+**Description:**  Very long names for pet names would result in the game becoming extremely laggy and even slowing down input.
 
-**Phase that introduced the defect:**  
+**Phase that introduced the defect:** When we were programming, and also our own QA testing, since we didn't think of doing something as absurd as having a very long name, which is why the best QA comes from when you release it to the public, since you never really know what somebody can do and will do.
 
-**Phase that caught it:**  
+**Phase that caught it:**  The QA from another group, since we had to QA test another group, they had to QA test ours too.
 
-**Would your chosen model have caught it earlier?**  
+**Would your chosen model have caught it earlier?** If it were used/implemented correctly, it would have been; unfortunately, we didn't implement it correctly.
 
-**Cost of catching it late:**  
+**Cost of catching it late:**  Time constraints/having to fix these bugs before the sprint was over/due, so it added a very minuscule amount of stress. Other than that, luckily, since there wasn't money invested, the cost of catching it was only time and stress.
 
 ---
 
